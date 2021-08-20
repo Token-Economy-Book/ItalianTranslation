@@ -1,22 +1,19 @@
-## TOKEN ECONOMY: Come Internet è stato reinventato dal Web3
+## Token Economy: Come Internet è stato reinventato dal Web3
+Tradotto da “Token Economy: How the Web3 reinvents the Internet,” Seconda edizione, Giugno 2020. La prima edizione è stata pubblicata da BlockchchianHub Berlin nel giugno 2019 con il titolo "Token Economy: How Blockchain & Smart Contracts revolutionize the Economy" e ha avuto due edizioni modificate.
 
-Seconda Edizione, Jun 2020 <br>
-La primera edición fue publicada por BlockchainHub Berlin https://blockchainhub.net en Junio de 2019 bajo el título “Token economy: How Blockchain & Smart Contracts revolutionize the Economy”, y tuvo dos ediciones enmendadas.<br>
-
-* Italian translation: https://github.com/Token-Economy-Book/ItalianTranslation/wiki (work in progress)
-* Other languages: https://github.com/Token-Economy-Book/
+* Edizione Italiana: https://github.com/Token-Economy-Book/ItalianTranslation/wiki (work in progress)
+* Altre lingue: https://github.com/Token-Economy-Book/
 
 ## Edición
-Autora: Shermin Voshmgir <br>
-Editor: Token Kitchen  <br>
-Alte Schönhauserstrasse 9, 10119 Berlin  <br>
-http://token.kitchen <br>
-Diseño: Justyna Zubrycka  <br>
-Producción: Caroline Helbing <br>
-Translators: Edoardo Calia, Elisa Bonaldo, Roberto Moncada, Antonio Andreottola
+* Autrice: Shermin Voshmgir 
+* Publisher: Token Kitchen 
+* Alte Schönhauserstrasse 9, 10119 Berlin 
+* http://token.kitchen
+* Design: Justyna Zubrycka 
+* Produttrice: Caroline Helbing
+* Layout dell'ebook:  Shermin Voshmgir 
+* Traduttori: Edoardo Calia, Elisa Bonaldo, Roberto Moncada, Antonio Andreottola
 
 ## Licence
-Copyleft 2020, Shermin Voshmgir: Creative Commons - CC BY-NC-SA: Esta licencia permite a los usuarios distribuir, adaptar, combiner y desarrollar contenido sobre el material en cualquier medio o formato sólo para fines no comerciales, y siempre y cuando se atribuya la autoría al creador. 
+Copyleft 2020, Shermin Voshmgir: Creative Commons - CC BY-NC-SA: Questa licenza consente ai riutilizzatori di distribuire, remixare, adattare e sviluppare il materiale in qualsiasi mezzo o formato solo per scopi non commerciali e solo a condizione che l'attribuzione sia data al creatore. Se remixi, adatti o sviluppi il materiale, devi concedere in licenza il materiale modificato alle stesse condizioni. Per le autorizzazioni commerciali contattare: hello@token.kitchen
 Mas informacion: https://creativecommons.org/licenses/by-nc-sa/4.0/ <br>
-Si adaptas, combinas o desarrollas sobre el material, debes licenciar el material modificado en idénticos términos. Para usos comerciales, contactar a: hello@token.kitchen
-
