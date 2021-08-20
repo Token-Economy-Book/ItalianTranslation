@@ -1,4 +1,4 @@
-## Token Economy: Come Internet è stato reinventato dal Web3
+## Token Economy: Come il Web3 reinventa Internet
 Tradotto da “Token Economy: How the Web3 reinvents the Internet,” Seconda edizione, Giugno 2020. La prima edizione è stata pubblicata da BlockchchianHub Berlin nel giugno 2019 con il titolo "Token Economy: How Blockchain & Smart Contracts revolutionize the Economy" e ha avuto due edizioni modificate.
 
 * Edizione Italiana: https://github.com/Token-Economy-Book/ItalianTranslation/wiki (work in progress)
